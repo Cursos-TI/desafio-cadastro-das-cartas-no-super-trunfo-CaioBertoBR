@@ -1,12 +1,14 @@
 #include <stdio.h>
 
-int main(){
-    char estado [50] = "Massachusetts";
-    float codigo = 617565;
-    char nomedacidade [20] = "Boston"
-    double população = 653.833
-    double area = 232,1 km²
+int main(){ 
 
+  int população
+  
+  printf("\n Carta 1: \n");
+  printf("Estado: M\n");
+  printf("Codigo: A01\n");
+  printf("Cidade: Boston\n");
+  printf("Popula")
     
     
 
